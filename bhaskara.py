@@ -22,12 +22,18 @@ def main():
 
     if delta < 0:
         print("Essa equação não possui raiz real")
+    else:     
+        if delta > 0:
+                print("Como Δ > 0, as duas raizes reais da equação são: x1=", bhaskara1, "e x2=", bhaskara2)
+        else:
+             if delta == 0:
+                print("Como Δ = 0, a única raiz da equação é: ", bhaskara1)
 
-    if delta == 0:
-        print("Como Δ = 0, a única raiz da equação é: ", bhaskara1)
 
-    if delta > 0:
-        print("Como Δ > 0, as duas raizes reais da equação são: x1=", bhaskara1, "e x2=", bhaskara2)
+   
+
+
+   
 
 
 #. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
