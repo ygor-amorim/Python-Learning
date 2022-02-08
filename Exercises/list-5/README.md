@@ -1,0 +1,1 @@
+In this list, i was first introduced to nested while loops. The use of nested loops were, at first, a little bit hard to grasp but i managed to overcome these challenges. The one with the empty rectangles was specially very hard to me.
