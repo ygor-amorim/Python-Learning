@@ -1,0 +1,1 @@
+In this list i was first introduced to the statement <b>while</b> and the objective of each exercise was to essentially experiment a little bit using it.
