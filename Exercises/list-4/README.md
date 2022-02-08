@@ -1,0 +1,1 @@
+In this list i was formally introduced to functions and function calls. I had a great time while doing this one because of lots of "playtime" with IDLE. Creating small functions that can be implemented in bigger ones is very pleasurable.
