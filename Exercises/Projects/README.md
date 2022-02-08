@@ -1,6 +1,7 @@
 This section includes the two most challenging projects faced on the course. I didn`t translate them to english because they were already too big to make these kind of alterations, but the code can be read 
 
 1) NIM Game
+
 The first one was made halfway through the course, and the objective was to create a NIM game which a player faces an unbeatable computer. 
 
 The computer is unbeatable because of two important factors:
