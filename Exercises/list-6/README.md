@@ -1,0 +1,1 @@
+This list introduces... list manipulation. I had much fun with this exercises, but I didn`t think they were very challenging, as the last list of the course. Even though, with external reading material, the last part of the course gave me a solid base for the final project.
